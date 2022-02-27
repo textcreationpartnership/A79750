@@ -1,0 +1,1671 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings of the Commissioners of the Church and kingdome of Scotland, with his Majestie at the Hague. And the papers interchanged betwixt his Majestie and them, as they were reported in Parliament and the Generall Assembly. Appointed by authority to be published.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79750</idno>
+            <idno type="STC">Wing C4251A</idno>
+            <idno type="STC">Thomason E566_11</idno>
+            <idno type="STC">ESTC R25607</idno>
+            <idno type="EEBO-CITATION">99872098</idno>
+            <idno type="PROQUEST">99872098</idno>
+            <idno type="VID">165289</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165289)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E566[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings of the Commissioners of the Church and kingdome of Scotland, with his Majestie at the Hague. And the papers interchanged betwixt his Majestie and them, as they were reported in Parliament and the Generall Assembly. Appointed by authority to be published.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>... re-printed in London for Robert Bostock, at the sign of the Kings head in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reprint. Originally published: Edinburgh, printed by Evan Tyler, printer to the Kings most excellent Majestie. 1649.</note>
+                  <note>Annotation on Thomason copy: "July 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Church of Scotland --  History, (17th century) --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165289:1" rendition="simple:additions"/>
+            <p>THE PROCEEDINGS OF THE COMMISSIONERS OF THE Church and Kingdome OF
+SCOTLAND, WITH HIS <hi>MAJESTIE</hi> at the <hi>HAG<g ref="char:V">Ʋ</g>E.</hi> AND The Papers
+interchanged betwixt his Majeſtie and them, as they were Reported in
+Parliament and the Generall Aſſembly.</p>
+            <p>
+               <hi>Appointed by Authority to be Publiſhed</hi>
+            </p>
+            <p>
+               <hi>Edinburgh,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the
+Kings moſt Excellent Majeſtie. 1649. And Re-Printed in <hi>London</hi> for
+<hi>Robert Boſtock,</hi> at the ſign of the Kings head in <hi>Pauls</hi>
+Church-yard.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:165289:2"/>
+            <head>The Report made to the Eſtates of PARLIAMENT of the Kingdome
+of SCOTLAND, By their Commiſſioners, after their return from the <hi>Kings
+Majeſtie</hi> out of <hi>Holland.</hi>
+            </head>
+            <div type="report">
+               <p>WEE have from time to time as occaſion offered, given Your
+Lordſhips and the Committee of Eſtat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, a parti<g ref="char:EOLhyphen"/>cular accompt of our diligence, and of the progreſs of
+theſe affairs, which it pleaſed Your Lordſhips to intruſt us with,
+which had been done more frequently, if the paſſage had not been ſo
+difficult, and uncertain, that we could not get our Papers conveyed to Your
+Lordſhips with that ſpeed which we deſired. And although our former
+Papers do bear much of the Report, yet that the Parliament may have at once a
+recent and intire review of the whole buſineſs together, we ſhal
+ſhort<g ref="char:EOLhyphen"/>ly reſume the ſubſtance of what hath been at ſeveral times
+communicated, and the Papers which have not as yet been tranſmitted to Your
+Lordſhips hands will make known the reſt.</p>
+               <p>According to our Additional Inſtructions of the fifteenth of
+March, finding that <hi>James Grahame</hi> was about the King, We did by a
+Paper of the twenty ſeventh of March, deſire that he might be removed from
+his Majeſties perſon and Court, as one who had been deſervedly
+forefaulted by the Parliament, and Excommunicate by the Kirk of this Kingdome;
+which when we had preſt once and again, his Majeſtie returned this
+Anſwer, That he was Reſolved to conſider the whole that we had to
+propoſe, before he Declared his Reſolution upon any part.</p>
+               <p>Although we were ſorry to receive this Anſwer, yet being
+loath upon this ground to break off, (laying that deſire aſide for the time
+we did pro<g ref="char:EOLhyphen"/>ceed, and in three Propoſitions offered to his Majeſtie the
+ſubſtance of theſe things which we were warranted by Your Lordſhips to
+Demand; the firſt whereof was, That his Majeſtie would by his Oath under
+his hand and Seal, allow the Covenant, and the Solemn League and Covenant, and
+ob<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ige himſelf to proſecute
+the enemies thereof in his Royal Station. Secondly that he would ratifie al
+Acts, of Parliament enjoyning the Solemn League and Covenant, and for ſetling
+Presbyterial Government, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of
+Wor<g ref="char:EOLhyphen"/>ſhip, Confeſſion of Faith, and Catechiſm, as they are already
+ap<g ref="char:EOLhyphen"/>proven by the General Aſſembly and Parliament of Scotland, and would
+aſ<g ref="char:EOLhyphen"/>ſent to Acts of Parliament, enjoyning the ſame in England, and
+obſerve the ſame in his own practiſe and family, and never m<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e oppoſition thereto. Thirdly, That
+his Majeſtie would agree that matters Civil ſhould be deter<g ref="char:EOLhyphen"/>mined by this
+preſent and ſubſequent Parliaments of this Kingdome and matters
+Eccleſiaſtical by the General Aſſemblies of this Church, as his Royal
+Father did formerly grant. Theſe Propoſitions were preſt with the beſt
+<pb n="3" facs="tcp:165289:2"/>reaſons we could, both from the juſtice and neceſſity
+of the matter, and fr<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the
+advantage that would ariſe to his Majeſties affairs upon ſatisfaction
+given there unto, which for brevity we forbear to repeat.</p>
+               <p>In ſtead of an Anſwer, his Majeſtie returned a Paper,
+containing theſe three Queries, firſt whether the Papers already
+preſented, did contain all that we had to propoſe. Secondly, whether we had
+any power to recede from any thing therein, or were bound to inſiſt
+thereupon in terms as they ſtood. Thirdly, whether we had any Propoſitions
+to make toward the advance<g ref="char:EOLhyphen"/>ment of his Service, for his reſtitution to his
+other Kingdomes, and bringing the murtherers of his Father to Juſtice.</p>
+               <p>And conſidering that theſe Queries were moved of purpoſe
+to obſtruct all Agreement, and to cauſe and increaſe jealouſies and
+differences betwixt his Majeſtie and us, we offered by conference to ſhew
+that theſe Queries were materially anſwered in our Paper of <hi>April</hi>
+20. and therefore intreated his Majeſtie not to inſiſt in theſe or the
+like, for the moving of them tended greatly to the prejudice of his own
+affaiars at this time. But his Majeſtie finding that conference could not be
+ſo wel tranſmitted to his counſell, he an<g ref="char:EOLhyphen"/>ſiſted in the ſame, ſo
+that we were neceſſitated to make it appear by Writ, that they had been
+anſwered in that our former Paper, as to the firſt we an<g ref="char:EOLhyphen"/>ſwered, That we
+were not to propoſe any further unleſs we were commanded by the Parliament
+or their Committee; To the ſecond, our deſires propoſed were ſo juſt
+and neceſſary, for ſecuring of religion and the peace of this Kingdom,
+that we could not in reaſon recede from the matter contained in them (which
+being retained) we were not to ſtand with his Majeſtie upon words or terms.
+And to the third we replyed, that the granting of theſe de<g ref="char:EOLhyphen"/>ſires, would
+make his Majeſties good people, do all for him as could be ex<g ref="char:EOLhyphen"/>pected of
+faithful and loyal Subjects to their gracious King; and particular<g ref="char:EOLhyphen"/>ly, would
+make them contribute their utmost indeavours, that his Majeſty might be
+restored to the poſſeſſion of his just right of government of his
+o<g ref="char:EOLhyphen"/>ther Dominions.</p>
+               <p>And when as yet his Majestie ſeemed not ſatisfied, and did
+eſpecially re<g ref="char:EOLhyphen"/>cent, that in theſe Anſwers nothing was expreſt of our
+ſenſe of the murther of his father, nor was any thing offered to bring the
+actors thereof to Juſtice: We did by another Paper cleer our former
+Anſwers, and did much regrat, that our ſenſe of that horrid fact
+againſt the life of our late Soveraign, ſhould be called in queſtion;
+ſince the Parliament by their Commiſſioners at London, had
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the world, how much they did
+abhominate and de<g ref="char:EOLhyphen"/>teſt the very deſign thereof: all which, with unanimous
+conſent was allowed, and approven in Parliament.</p>
+               <p>And finding that his Majeſtie did all this while deſire to
+give a direct or poſitive Anſwer to the Propoſitions, we did by another
+Paper of May 11. with all the freedome and faithfulneſs we could, preſs his
+Anſwer, and did<pb n="4" facs="tcp:165289:3"/>repreſent to him the great danger and
+diſadvantage, which would inevita<g ref="char:EOLhyphen"/>bly enſue upon his delaying, or
+refuſing, to give the ſatisfaction deſired by by this Kingdome.</p>
+               <p>Whereupon his Majeſtie gave us this Paper of May 29. after
+conſiderati<g ref="char:EOLhyphen"/>on whereof, we did repreſent to his Majeſtie how grievous
+that Anſwer was to us, and how unſatisfactory it would be to Your
+Lordſhips, and therefore forbearing to inſiſt upon particulars, we
+intreated his Majeſtie to take the ſame again into conſideration, to
+which his Majeſtie was pleaſed only to re<g ref="char:EOLhyphen"/>turn this general Anſwer, by
+the which Your Lordſhips, may perceive, his Majeſties purpoſe of
+ſending an expreſs hither for your further ſatisfaction</p>
+               <p>In purſuance of our truſt, there did many things occur in
+conference, which cannot fitly be now repeated, in which, according to our
+duty, we left no means or arguments unaſſayed, that his Majeſty might
+apply himſelf to the Counſels of his Parliament, in which we did expreſs
+how much Af<g ref="char:EOLhyphen"/>fection and Loyalty your Lordſhips did bear to his Royal
+Perſon, and Go<g ref="char:EOLhyphen"/>vernment, whereof we ſhall be ready to make a more full
+relation, when it ſhall pleaſe your Lordſhips to require it. Although we
+have not had as yet ſuch ſatisfaction, as both your Lordſhips and we did
+wiſh, yet do we not de<g ref="char:EOLhyphen"/>ſpair, ſince affairs are left in that condition,
+that further progreſs may be made thereupon, by the expreſs which his
+Majesty is to ſend hither, or by new applications to his Majeſty, as your
+Lordſhips ſhall think fitting.</p>
+               <p>We have had ſo many experiences and proofs of the good hand of
+our God with us unto this day, that (although our difficulties be many) we were
+of all people moſt unthankeful, if we ſhould now faint or caſt away our
+confi<g ref="char:EOLhyphen"/>dence, in doing of our duty, we may hope, that he will yet aſſiſt,
+and go before us; and as all poſſible and lawful means would be ſtill
+uſed, for gaining from our Soveraign the King, a gracious Anſwer to our
+Deſires, ſo ſhould we not in the mean time become ſecure, but imploy
+all warrantable means for preſerving Religion, and the Kingdom in
+ſafety.</p>
+               <closer>
+                  <dateline>
+                     <date>June 14. 1649.</date>
+                  </dateline> 
+                  <signed> 
+                     <list>
+                        <item>CASSILS.</item>
+                        <item>BRODIE.</item>
+                        <item>GEO. WYNRAME.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="correspondence">
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>The Commiſſioners firſt paper to the Kings Majeſty,
+deſiring the removal of <hi>James Graham</hi> from his preſence and
+Court.</head>
+                     <opener>
+                        <salute>May it pleaſe your Majesty,</salute>
+                     </opener>
+                     <p>THe Eſtates of Parliament, of your Majeſties ancient
+Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> conſidering what ſad effects the pernicious
+Counſels of wicked Inſtruments have produced, by raiſing and fomenting
+diviſion between your Majeſties Royal Father, and his faithful Subjects;
+Have commanded us at our firſt Addreſs to your Majeſty, humbly to crave,
+that your Majeſty would be pleaſed to remove from having acceſs to your
+Royal Perſon and Court, all theſe who have been and continue Excommunicate
+by the Church of that<pb n="5" facs="tcp:165289:3"/>Kingdom, and namely <hi>James
+Graham,</hi> ſometime Earl of <hi>Montroſe:</hi> and now we, according to
+the Truſt committed to us, do humbly and earneſtly crave the ſame at your
+Majeſties hands, being very hopeful that a more plentiful bleſſing from
+God ſhall accompany your Majeſties Counſels and affairs, and that the
+deſires and endeavors of the Parliament ſhall prove the more effectual to
+work a good underſtanding and mutual confidence be<g ref="char:EOLhyphen"/>twixt your Majeſty and
+your people, when ſo eminent an Author and Actor of miſchief ſhall have
+no countenance from your Majeſty, nor influ<g ref="char:EOLhyphen"/>ence upon your Royal Counſels,
+who abandoning the Covenant, and deſpi<g ref="char:EOLhyphen"/>ſing the Oath of God, did invade his
+native Country, and with moſt inhu<g ref="char:EOLhyphen"/>mane and barbarous cruelty did burn and
+waſte divers parts thereof, and who ſpilt ſo much blood of your
+Majeſties good Subjects, taking advantage of that time when the prime
+Commanders and Forces thereof were imploy<g ref="char:EOLhyphen"/>ed elſewhere, for which crimes he
+was excommunicated by the Church and fore-faulted by the Parliament of that
+Kingdom, and ſtill to this day continues in the higheſt contempt againſt
+God, under that fearful ſentence of Excommunication, without the ſmalleſt
+ſign of Repentance.</p>
+                     <closer>
+                        <dateline>
+                           <date>March 27. 1649.</date>
+                        </dateline> 
+                        <signed>Signed by Warrant and at Command of the
+Com<g ref="char:EOLhyphen"/>miſſioners of the Parliament of the Kingdom of
+Scotland.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>His Majeſties Anſwer.</head>
+                     <p>I Deſire and expect that you deliver all the Propoſitions
+or Deſires you are inſtructed to preſent to me, before I make an Anſwer
+to any particular one, being reſolved to conſider of the whole, before I
+declare my Reſolution upon any part.</p>
+                     <closer>
+                        <dateline>
+                           <date>April 8. 1649. N.
+Stilo.</date>
+                        </dateline> 
+                        <signed>Signed, C R.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>The Commiſſioners ſecond Paper for removal of
+<hi>James Graham.</hi>
+                     </head>
+                     <opener>
+                        <salute>May it pleaſe your Majeſty,</salute>
+                     </opener>
+                     <p>WE the Commiſſioners of the Parliament of your Majeſties
+Kingdom of <hi>Scotland,</hi> having conſidered your Majeſties Anſwer of
+the date the 8 of <hi>April, Stilo no.</hi> to our deſire for removing
+<hi>James Graham</hi> from your Majeſties Perſon and Court, muſt in
+conſcience of our duty with all hu<g ref="char:EOLhyphen"/>mility repreſent unto your Majeſty,
+how ſorry we are, that your Majeſty ſhould delay to give ſatisfaction
+to that our firſt, ſo juſt and neceſſary De<g ref="char:EOLhyphen"/>ſire; It being
+previous, and moſt conducing to an happy procedure in the other particulars,
+which we are warranted to under to your Majeſty: We do humbly beſeech your
+Majeſty ſeriouſly to conſider, what fears and diſ<g ref="char:EOLhyphen"/>contents it would
+beget in the hearts of your Majeſties moſt affectionate Subjects, and how
+it would blaſt their hopes of comfort by your Majeſties Raign, now in the
+bud, if delay or difficulty were made to remove from your Majeſty one who
+juſtly and deſervedly is moſt hateful unto them, and<pb n="6" facs="tcp:165289:4"/>how
+great diſadvantage it would bring to your Majeſties affairs, that he
+ſhould have any countenance from, or neerneſs to your Royal Perſon,
+eſpe<g ref="char:EOLhyphen"/>cially at this time; therefore we do moſt humbly and earneſtly
+renew, and inſiſt upon that our firſt deſire, aſſuring your
+Majeſty, that we ſhall in the reſt endeavor (according to that truſt
+repoſed on us) to give your Maieſty all ſatisfaction.</p>
+                     <closer>
+                        <dateline>
+                           <date>March 30. 1649.</date>
+                        </dateline> 
+                        <signed>Signed by Warrant and at Command of the
+Com<g ref="char:EOLhyphen"/>miſſioners of the Kingdom of Scotland.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>His Majeſties Anſwer.</head>
+                     <p>I Do inſiſt upon my former Anſwer, and do deſire and
+expect, that you do deliver all the Propoſitions or Deſires you or any of
+you are enſtructed to preſent to me, before I make an Anſwer to any
+particular one, being re<g ref="char:EOLhyphen"/>ſolved to conſider of the whole, before I declare
+my Reſolution upon any part.</p>
+                     <closer>
+                        <dateline>
+                           <date>April 10. n. ſtil.
+1649.</date>
+                        </dateline> 
+                        <signed>Signed, C R.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>The Commiſſioners third Paper, containing the
+Propoſitions offered to his Majeſty in name of the Parliament of the
+Kingdom of Scotland.</head>
+                     <opener>
+                        <salute>May it pleaſe your Majeſty,</salute>
+                     </opener>
+                     <p>WE are commanded by the Eſtates of Parliament of your
+Majeſties Kingdom of <hi>Scotland,</hi> humbly to repreſent to your
+Majeſty, that as they were not wanting in giving faithful and timous
+counſel to your Ma<g ref="char:EOLhyphen"/>ieſties Royal Father, for preventing the dangers which
+were then feared, and have ſince to their deep ſorrow and unexpreſſible
+grief fallen out: and as they have with all care and faithfulneſs contributed
+their utmoſt endeavors for preſerving their late Soveraign, as their
+Letters, Inſtructions, Declarati<g ref="char:EOLhyphen"/>ons, and their Commiſſioners Papers can
+evidence: So they do reſolve to continue the ſame loyal affection and
+faithfulneſs to your Majeſty, and ac<g ref="char:EOLhyphen"/>cordingly have acknowledged and
+proclaimed your Majeſty King of Great <hi>Britain, France</hi> and
+<hi>Ireland,</hi> with all readineſs, unanimity, alacrity and ſo<g ref="char:EOLhyphen"/>lemnity;
+and have proteſted in favours of your Majeſties juſt Right of
+Suc<g ref="char:EOLhyphen"/>ceſſion in the Royal Government of your Kingdoms of <hi>England</hi>
+and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> againſt all Acts done, or to be done to the contrary:
+As alſo have com<g ref="char:EOLhyphen"/>manded us in their name, humbly to offer to your Majeſty,
+that they conceive it neceſſary for eſtabliſhing the happy Government
+of that your Majeſties ancient Kingdom, and for reſtoring your Majeſty to
+the ſetled and peaceable poſſeſſion of your
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uſt Right of Government of your
+other Dominions.</p>
+                     <p n="1">1. That your Majeſty would be pleaſed to aſſure
+and declare, that you will by your ſolemn Oath under your Hand and Seal allow
+the National Co<g ref="char:EOLhyphen"/>venant of <hi>Scotland,</hi> and the Solemn League and Covenant
+of <hi>Scotland,<pb n="7" facs="tcp:165289:4"/>England</hi> and <hi>Ireland,</hi> and that
+your Majeſty will proſecute the ends there<g ref="char:EOLhyphen"/>of in your Royall
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</p>
+                     <p n="2">2. That your Majeſty will
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>fie and approve all Acts of
+Parliaments, en<g ref="char:EOLhyphen"/>joyning the Solemn League and Covenant, and eſtabliſhing
+Presbyterial Go<g ref="char:EOLhyphen"/>vernment the Directory of Worſhip, the Confeſſion of
+Faith, and Catechiſm, in your Majeſties Kingdom of <hi>Scotland,</hi> as
+they are already approven by the General Aſſembly of the Kirk, and by the
+Parliament of that Kingdom: And that your Majeſty will give your Royal
+Aſſent to Acts of Parliament, enjoyning the ſame in the reſt of your
+Majeſties Dominions. And that your Majeſty will obſerve the ſame in
+your own practiſe and family, and never make oppoſition thereto, or
+endeavor any change thereof.</p>
+                     <p n="3">3. That your Majeſty will conſent and agree, that
+all matters Civil be de<g ref="char:EOLhyphen"/>termined by the preſent and ſubſequent
+Parliaments of your Kingdom of <hi>Scotland,</hi> and all matters
+Eccleſiaſtical by the enſuing General Aſſemblies of that Church, as
+was formerly condiſcended, and agreed to by your Majeſties Royal
+Father.</p>
+                     <p>Theſe deſires are ſo juſt and neceſſary for the
+ſecuring of Religion, and the Peace of that Kingdom, and for gaining not only
+the out ward obedience, but alſo the inward affection of all your Majeſties
+good people, to your royal Perſon, Authority, and Government, after ſo
+great diſtractions and troubles, that the granting thereof wil ſo far
+endear your Majeſty to that Nation, that they will not onely receive your
+Majeſty with all cheerfulneſs, and moſt will<g ref="char:EOLhyphen"/>ingly render to you that
+ſubjection and dutiful obedience which can be ex<g ref="char:EOLhyphen"/>pected from loyal Subjects
+to their gracious King; But likewiſe will contri<g ref="char:EOLhyphen"/>bute their utmoſt
+endeavors by all neceſſary and lawful means, according to the Covenant, and
+the duty of faithful and loyal Subjects, that your Maje<g ref="char:EOLhyphen"/>ſty may be reſtored
+to the peaceable poſſeſſion of the Government of your other Kingdoms,
+according to your Majeſties and doubted right of ſucceſſion. And if
+your Majeſty ſhall ſpeedly begin to move that way which will be
+acceptable to God, and good men, and really offer to ſettle Religion and
+Peace, as is repreſented in our deſires; and upon theſe grounds ſhall
+claim the right of your Royal Government, before Democracy or any new model of
+Government under the name of an Agreement of the people, or any other name or
+device be ſetled or take root in <hi>England;</hi> it will be more eaſie to
+maintain Monarchical Government, as
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> in the hearts of your
+Majeſties loyal Subjects there, then
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> it after a new form of
+Go<g ref="char:EOLhyphen"/>vernment hath gotten leave to take root, and the people have been
+habitu<g ref="char:EOLhyphen"/>ated thereunto. We are very confident
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> your Majeſties ſpeedy and
+cor<g ref="char:EOLhyphen"/>dial joyning in the Government with God, and your good people, will open a
+door of hope that God will ariſe and ſhine upon your Majeſties juſt
+un<g ref="char:EOLhyphen"/>dertakings, and will plead your righteous cauſe againſt the enemies
+thereof.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="8" facs="tcp:165289:5"/>
+                     <head>His Majeſties Anſwer.</head>
+                     <p>J Deſire to know whether the papers you have already
+delivered, contain all particulars, which you or either of you have to propone
+or deſire, and whether you have any power to recede from any particular
+propoſed, or to be propoſed; and whether you have any Propoſitions to
+make, for the ad<g ref="char:EOLhyphen"/>vancement of my Service, and toward the recovery of my right
+in <hi>England,</hi> and bringing of the murtherers of my Father to Juſtice,
+and what aſſiſtance you will give to that purpoſe.</p>
+                     <closer>
+                        <dateline>
+                           <date>April 12./<gap reason="illegible" resp="#OXF" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>.</date>
+                        </dateline> 
+                        <signed>Signed, C: R.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>The Commiſsioners fourth Paper.</head>
+                     <opener>
+                        <salute>May it pleaſe your Majeſty,</salute>
+                     </opener>
+                     <p>VVE have conſidered your Majeſties paper of the 22. of
+this inſtant, and do humbly conceive that it is ſufficiently anſwered by
+ours of the twentieth of the ſame, containing the juſt and neceſſary
+deſires of the Parliament of your Majeſties Kingdom of <hi>Scotland,</hi>
+as we are ready in<g ref="char:EOLhyphen"/>ſtantly to make appear.</p>
+                     <closer>
+                        <dateline>
+                           <date>April 14. 24.</date>
+                        </dateline> 
+                        <signed>Signed by the Commiſſioners of
+<hi>Parliament.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>His Majeſties Anſwer.</head>
+                     <p>I Have again conſidered your Papers of the 20. of this
+inſtant moneth, to which you refer in your Papers of the 24. and do not
+underſtand that the Queſtions asked by me in my Paper of the 22. were
+ſufficiently anſwer<g ref="char:EOLhyphen"/>ed by you in the other, there being no mention in that
+Paper of the 20. whe<g ref="char:EOLhyphen"/>ther the Papers you have already delivered contain all
+particulars which you, or either of you, have to propone or deſire, nor
+whether you have any power to recede from any particular propoſed, or to be
+propoſed by you, or whe<g ref="char:EOLhyphen"/>ther you are bound to inſiſt on them in the terms
+they are propoſed, nor are the offers in that Paper particular enough for the
+advancement of my Ser<g ref="char:EOLhyphen"/>vice, and towards the recovery of my Right in
+<hi>England,</hi> nor is there men<g ref="char:EOLhyphen"/>tion of bringing the Murtherers of my Father
+to Juſtice, or what aſsiſtance you will give to that purpoſe. To all
+which I expect particular Anſwers, or that you will make it appear in
+writing, that the former Paper, or any other delivered by you to me, contains
+ſufficient Anſwers thereunto: And upon your full Anſwers to theſe
+particulars, you ſhall receive ſuch an one from me, upon the whole, as
+ſhall be agreeable to Conſcience, Honour and Juſtice.</p>
+                     <closer>
+                        <dateline>
+                           <date>April 30. May 10. 1649.</date>
+                        </dateline>
+
+                        <signed>Signed, C R.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="9" facs="tcp:165289:5"/>
+                     <opener>
+                        <salute>May it pleaſe your Majeſty,</salute>
+                     </opener>
+                     <p>BEing unwillling to trouble your Majeſty with long and
+tedious Pa<g ref="char:EOLhyphen"/>pers, We chooſed rather by conference to make it appear that your
+Majeſties Queries contained in the paper of <hi>April</hi> 22. were
+ſufficiently Anſwered by ours of the 20. containing the deſires of the
+Parliament of your Majeſties Kingdom of <hi>Scotland:</hi> But now ſeing
+your Majeſty is pleaſed to inſiſt in the ſame, by another of the 30,
+deſiring that we would make appear in writing that our former paper
+containeth ſufficient Anſwers thereunto. In obedience to your Majeſties
+Deſire, we do by theſe humbly crave, It may be conſidered, that whereas
+your Majeſty deſires to know whether our papers already delivered containe
+all parti<g ref="char:EOLhyphen"/>culars which we have to propoſe. It is Declared therein, that your
+Ma<g ref="char:EOLhyphen"/>jeſties granting of the deſires contained therein, will obtain all that
+in reaſon can be required of your people of <hi>Scotland,</hi> or can be
+expected of Loyal Subjects to their gracious King; neither are we to propoſe
+any other, unleſſe we be commanded by the Parliament or Committee of
+Eſtates; That whereas your Majeſty deſires to know, whether we have power
+to recede from any particular propoſed, or if we are bound to inſiſt upon
+them in the termes they are propſed, It is declared therein, that theſe
+Deſires contained in it, are juſt and neceſſary for the ſecuring of
+Religion, and the peace of that Kingdom, ſo that we ſhall have no reaſon
+to recede from the matter of them, though we are not to ſtand upon termes or
+words with your Majeſtie; That whereas your Maje<g ref="char:EOLhyphen"/>ſtie Deſires to know
+what that Kingdome will do for the advancement of your Majeſties Service and
+affaires: It is Declared therein, that the granting theſe juſt and
+neceſſary deſires, will make your good people in <hi>Scotland,</hi> do
+all that can be deſired or expected from Loyall Subjects to their gracious
+King, and contribute their utmoſt endeavours by all law<g ref="char:EOLhyphen"/>full and
+neceſſary meanes, according to the Covenant, and the duty of loyal &amp;
+faithful Subjects, that your Majeſty may be reſtored to the peace<g ref="char:EOLhyphen"/>able
+poſſeſſion of the Government of your other Kingdoms. Wherefore we do in
+all humility, renew theſe our former Deſires, earneſtly beſeech<g ref="char:EOLhyphen"/>ing
+that without loſing of precious time, your Majeſtie would be pleaſed to
+give a direct and ſatisfactory Anſwer thereunto.</p>
+                     <closer>
+                        <dateline>
+                           <date>April 23. May 3. 1649.</date>
+                        </dateline> 
+                        <signed>Signed by the Commiſſioners of
+Parliament.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>His <hi>Majeſties</hi> Anſwer.</head>
+                     <p>I Cannot thinke your Paper of the 3. of this month to contain
+a par<g ref="char:EOLhyphen"/>tain Anſwer to the Queſtions of Mine of the thirtieth of the laſt;
+all your Anſwer to My Queſtion, whether you have any other thing to propone
+then that you have already propoſed, being that you are not to 
+<pb n="10" facs="tcp:165289:6"/>propoſe any other unleſſe you be commanded: Whereas I
+expected you would have anſwered, whether you are commanded to make any other
+propoſition or no, and that you would have told Me whether you have power to
+recede from any particular which you have propoſed, which you anſwer no
+other wayes, then by ſaying what you demand is juſt and reaſonable, but I
+cannot but obſerve, that to My Queſtion of the bringing the murtherers of
+My Father to juſtice, and what aſſiſtance you would give to that
+purpoſe, you make not the leaſt anſwer, nor not ſo much as mention your
+ſenſe of that horrid and <hi>
+                           <g ref="char:V">Ʋ</g>nparaleld Murther,</hi> and there<g ref="char:EOLhyphen"/>fore I
+would be glad to receive your ful anſwer thereunto,</p>
+                     <closer>
+                        <dateline>
+                           <date>May 7. N. S.</date>
+                        </dateline> 
+                        <signed>Signed, C.R.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>May it pleaſe your Majeſtie.</salute>
+                     </opener>
+                     <p>OUr deep ſenſe of the great dangers which will unavoidably
+enſue to your Majeſties affaires, upon delaying to give ſatisfaction to
+theſe deſires, which we have propoſed in name of the Parliament of your
+Majeſties Kingdom of <hi>Scotland,</hi> as the beſt and moſt effectuall
+means for eſtabliſhing your Majeſties happie government of that your
+ancient Kingdome, and for reſtoring your Majeſtie to the poſſeſſion
+of your juſt right of government of your other dominions; maketh us hea<g ref="char:EOLhyphen"/>vily
+regrate: that ſo much time hath been ſpent without any direct An<g ref="char:EOLhyphen"/>ſwer
+from your Majeſtie, but inſtead thereof of ſome queſtions have been
+propoſed to us; and that notwithſtanding we have once again, as we humbly
+conceive, ſufficiently anſwered and cleared the fame, both by Word and
+Writ, yet they are renewed and inſiſted upon by your Ma<g ref="char:EOLhyphen"/>jeſties paper of
+the ſeventh of this inſtant, to which little more can be ſaid (to our
+judgement) then what hath been expreſſed before. For to your Majeſties
+firſt queſtion, whither our papers already delivered con<g ref="char:EOLhyphen"/>tain all
+particulars which we have to purpoſe; we could not anſwer more directly and
+clearly, then that we are not to propoſe any other, unleſs we be further
+commanded by the Parliament. And to that, whi<g ref="char:EOLhyphen"/>ther we had power to recede from
+any particulars propoſed, we an<g ref="char:EOLhyphen"/>ſwered that the deſires we propoſed,
+are not only juſt and reaſonable, but neceſſary, and conſequently,
+ſuch as from which we may not recede. And to your Majeſties laſt
+queſtion, we gave an Anſwer very full and comprehenſive, that your
+Majeſties granting theſe juſt and neceſſary deſires, would move
+your good Subjects of <hi>Scotland</hi> to do for the ad<g ref="char:EOLhyphen"/>vancement of your
+Majeſties ſervice and affairs, whatſoever could be expected from loyall
+Subjects to their gracious King, and to endea<g ref="char:EOLhyphen"/>vour to the utmoſt of their
+power by all lawfull and neceſſary means, that your Majeſty may be
+reſtored to the poſſeſſion of your juſt right of government of your
+other Kingdomes. Neither did we conceive<pb n="11" facs="tcp:165289:6"/>it neceſſary to
+multiply words in repeating our deep ſenſe of that hor<g ref="char:EOLunhyphen"/>rid Fact againſt
+the life of your Royall Father, ſeeing the whole Parl. of <hi>Scotland,</hi>
+whereof we had the honour to be Members, had ſo ſolemn<g ref="char:EOLhyphen"/>ly declared to the
+world how much they did deteſt and abominate the very deſign thereof, as
+the Proteſtations and Papers of their Com<g ref="char:EOLhyphen"/>miſſioners at <hi>London</hi>
+can bear witneſſe, and we were ſo conſcious to our ſelves of our
+ſincere tender reſpects, and affection towards our late So<g ref="char:EOLhyphen"/>veraign, that we
+looked not to have our ſenſe of that fact in the leaſt wiſe
+queſtioned. Wherefore we do again with all humility and earneſt<g ref="char:EOLhyphen"/>neſs,
+renew our former ſupplication that without further loſs of preci<g ref="char:EOLhyphen"/>ous time,
+whereof too much is loſt already (we wiſh it be not to the prejudice both
+of your Majeſties affaires, and of your lamentably di<g ref="char:EOLhyphen"/>ſtracted, and
+bleeding Kingdoms) your Majeſtie will be pleaſed to give a direct and
+ſatisfactory Anſwer to theſe our moſt juſt an neceſſary
+de<g ref="char:EOLhyphen"/>ſires; in doing whereof, your Majeſty will be to theſe afflicted
+King<g ref="char:EOLhyphen"/>doms, like the rain coming down upon the mowen graſſe, and as
+ſhow<g ref="char:EOLhyphen"/>ers that water the earth.</p>
+                     <closer>
+                        <dateline>
+                           <date>Aprill 29. May 9. 1649.</date>
+                        </dateline>
+
+                        <signed>Signed by the Commiſſioners of
+Parliament.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>May it pleaſe your Majeſty,</salute>
+                     </opener>
+                     <p>HAving for a long time waited your Majeſties leiſure, for
+an Anſwer to the humble deſires of the Parliament of your kingdom of
+<hi>Scot<g ref="char:EOLhyphen"/>land,</hi> which we have in their name tendred to your Majeſty, and
+having received no Anſwer, or the leaſt ſatisfaction to any of them, in
+diſcharge of our duty to your Majeſty. We cannot but ſhew that both your
+affairs and your diſtracted Kingdoms are expoſed to exceeding great
+prejudice by the loſſe of ſo much precious time, which (in our humble
+opinion) might have been much better improved for the advantage of both. And by
+your Majeſties intended removal hence, and our neceſſitie to return, we
+are ſo ſtraitned with time that we cannot forbear any longer, to re<g ref="char:EOLhyphen"/>new our
+humble and earneſt requeſt for a ſpeedy &amp; favourable Anſwer,
+whereby your Majeſty hath a fair occaſion (if imbraced) at once to make
+both your ſelf and people happie. And on the contrary, the great danger and
+irreparable loſſe, will inevitably enſue upon further delay<g ref="char:EOLhyphen"/>ing, or
+refuſing to give ſatisfaction to ſo juſt and reaſonable deſires,
+ſo obvious to any impartial eie, ſo that if now when by the power and
+pre<g ref="char:EOLhyphen"/>valencie of Sectaries, and their Army in <hi>England,</hi> that Kingdom
+brought underfoot, and almoſt loſt; and when <hi>Ireland</hi> is in very
+great diſtractions your Maj. ſhall not ſpeedily &amp; heartily ſatisfie
+the deſires of your Maj. Kingdom of <hi>Scotland,</hi> eſpecially for
+Religion and the Covenant which is the ſtrongeſt band to tye Subjects to
+their King. It will weaken the<pb n="12" facs="tcp:165289:7"/>hands of all thoſe that love
+Religion, and Monarchicall Government in <hi>England,</hi> and wholly
+diſcourage, and diſenable <hi>Scotland</hi> to do for your Majeſty; by
+that means alſo your enemies will be incouraged, and ſtrengthened to
+proſecute their wicked deſignes, and your good people in <hi>England</hi>
+will be forced to couch under the burden, and ſubmit to the yoak,
+diſpairing of any means of relief or deliverance; We intreat your Majeſtie
+to remember, that opportunitie once loſed, cannot be re<g ref="char:EOLhyphen"/>gained, the neglect,
+and not taking hold whereof, when ſo frequent<g ref="char:EOLhyphen"/>ly offered, hath been the chief
+cauſe of the troubles of your Royall Fa<g ref="char:EOLhyphen"/>mily, and hath to our unſpeakable
+grief proved ſad and fatall at laſt; We are confident that your Majeſty
+rightly pondering and laying theſe things to heart, will in the entry of your
+Reign ſo much cheriſh the hopefull expectation of your Loyall people, as
+that they may at length look for the wiſhed ends of the long-continued
+troubles, and may live a comfortable and quiet life under the ſhadow of your
+Majeſties proſpe<g ref="char:EOLhyphen"/>rous and happy Government.</p>
+                     <closer>
+                        <dateline>
+                           <date>May 17/27. 1649.</date>
+                        </dateline> 
+                        <signed>Signed by the Commiſſioners of
+Parliament.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>His Majeſties Anſwer, more expreſly relating to the
+Propoſitions.</head>
+                     <p>I Have conſidered the ſeveral Papers and Propoſitions
+delivered to me by you, and do aſſure you, That I deſire nothing more,
+then that I may intirely unite the hearts and affections of all my good
+ſubjects of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> to me, and amongſt themſelves, as well for
+the Honour, peace, and proſperity of that Kingdom, as that they may jointly
+and unanimouſly aſſiſt me, in the revenge of that horrid and impious
+murther of my Fa<g ref="char:EOLhyphen"/>ther, and the recovery of my juſt Right in my other
+Dominions, (to which they are equally engaged by the laws of God, and of that
+King<g ref="char:EOLhyphen"/>dom) and to the obtaining of ſuch an Union, I will conſent to all that
+in Conſcience and Honor I may, without impoſing on my other King<g ref="char:EOLhyphen"/>doms. As,
+firſt, I will maintain, confirm, and defend the Government
+Eccleſiaſticall and Civil of <hi>Scotland,</hi> as is ſetled by Law, and
+the Ancient known Laws of that Kingdom, as likewiſe all ſuch Acts of
+Parliament, as have been actually conſented unto by the King my Father, being
+perſo<g ref="char:EOLhyphen"/>nally preſent in Parliament, or by his Commiſſioners lawfully
+authori<g ref="char:EOLhyphen"/>zed by him; and particularly, the Laws concerning the <hi>Nationall
+Co<g ref="char:EOLhyphen"/>venant,</hi> the <hi>Confeſſion of Faith,</hi> and <hi>Presbyterial
+government</hi> of that Church: Touching that part of the League and Covenant
+which con<g ref="char:EOLhyphen"/>cerneth My other Kingdoms of <hi>England</hi> and <hi>Ireland,</hi>
+it is not in my power juſtly to take any reſolution therein, without the
+advice of my re<g ref="char:EOLhyphen"/>ſpective Parliaments of theſe Kingdoms, by whoſe advice
+and conſent only, Laws are there to be made and altered; Neither can I
+conſent to any thing which ſhall oppoſe or diſturb the peace lately
+concluded in<pb n="5" facs="tcp:165289:7"/>
+                        <hi>Ireland,</hi> but I am very willing to refer
+the full conſideration of the ſaid League and Covenant, and of all the
+other particulars you mention (as to <hi>England</hi>) to a free Parliament to
+be convened there by My Writ, as ſoon as the condition of that Kingdom will
+permit me ſo to doe; By whoſe advice I am reſolved to govern my ſelf
+therein; in the mean time, as I am very ready to doe all that is in my power to
+the ſafe and quiet protection of my people in <hi>Scotland,</hi> under the
+benefit of the Lawes of that Kingdom, as likewiſe further to gratifie them in
+all that may really tend to their welfare; So I ſhall expect that obedience
+and duty from them in the exerciſe of my Royall power, as is due to me by
+their Alle<g ref="char:EOLhyphen"/>giance; To which they ſubmitting, and for the burying all
+bitterneſs and animoſities which the former diſtractions and diviſions
+may have pro<g ref="char:EOLhyphen"/>duced, and the better effecting the happy union beforementioned, I
+am very willing and deſirous to conſent to any Act of Oblivion and
+Indem<g ref="char:EOLhyphen"/>pnity to all perſons of what condition ſoever of that Kingdom of
+<hi>Scot<g ref="char:EOLhyphen"/>land,</hi> excepting only ſuch perſons (if any ſuch there be in,
+or of that king<g ref="char:EOLhyphen"/>dom) that ſhall hereafter upon ſufficient and due evidence
+in a lawfull tryall, be found actually and expreſly guilty of that late
+unparalleld hor<g ref="char:EOLhyphen"/>rid Act, of the murther of their late Soveraign. And if it
+ſhall appear unto me, that the League and Covenant containeth any thing in it
+not compriſed in theſe Acts concerning the National Covenant, and
+Presby<g ref="char:EOLhyphen"/>terial government of the Church of <hi>Scotland,</hi> and
+neceſſarily to the wel<g ref="char:EOLhyphen"/>fare of the ſaid Church and kingdom, without
+reference to <hi>England</hi> or <hi>Ireland;</hi> I ſhal upon the firſt
+ſetling of ſuch an Union, and the paſſing of ſuch an Act of Oblivion
+as is before-mentioned, apply my ſelf to give ful ſatisfaction therein.
+Paſſionatly deſiring to remove all occaſions of miſ<g ref="char:EOLhyphen"/>underſtanding
+between my ſelf and all my good Subjects of that my Kingdom of
+<hi>Scotland;</hi> and what is not particularly anſwered at this time ſhall
+be ſupplyed by an expreſs, whom I will diſpatch into <hi>Scotland</hi> as
+ſoon as conveniently I can.</p>
+                     <closer>
+                        <dateline>
+                           <date>May 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>/29. 1643.</date>
+                        </dateline> 
+                        <signed>Signed CHARLS REX.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>May it pleaſe your Majeſty,</salute>
+                     </opener>
+                     <p>ALthough We were much troubled that your Maj. Anſwer
+ſhould have been ſo long delayed, at ſuch a time when Reſolution &amp;
+Acti<g ref="char:EOLhyphen"/>on were ſo neceſſitated; yet have we now received it with much
+greater grief, finding that your Majeſties Counſels lead you to
+reſolutions ſo contrary to the ſatisfaction deſired by us, in the name
+of the Parl. of your Kingdom of <hi>Scotl.</hi> and ſo far from ingaging them
+to hazard their lives and fortunes in your ſervice (which with ſo much
+affection they deſired) as that by this ſtrange Anſwer, the diſtance is
+made greater then before, nay by it far leſs is offered for Religion, the
+Covenant, and the<pb n="14" facs="tcp:165289:8"/>Laws and Liberties of that Kingdom, then
+was by your Royall Father; even at that time when the difference amongſt them
+was greateſt: yea, many of the moſt materiall Acts agreed upon by the large
+Treaty rati<g ref="char:EOLhyphen"/>fied by him, are by this Anſwer called in Queſtion: His
+Majeſties Conceſſions in the Iſle of <hi>Wight</hi> did bear, that he
+would con<g ref="char:EOLhyphen"/>firm the Solemne League and COVENANT in both King<g ref="char:EOLhyphen"/>domes for all that
+had taken it, or ſhould take it, and that hee would ſettle Presbyterial
+Government; and the Directorie of Wor<g ref="char:EOLhyphen"/>ſhip in <hi>England</hi> (although
+theſe Conceſſions were found unſatisfacto<g ref="char:EOLhyphen"/>ry) yet your Majeſtie is
+not pleaſed to go ſo much as that ſame length, or to offer any preſent
+and expreſſe ſatisfaction as to the Solemne League and Covenant,
+<hi>Confeſſion of Faith, Directory for Worſhip,</hi> and
+<hi>Catechiſme</hi> in either of the Kingdoms. And although your Majeſty
+pro<g ref="char:EOLhyphen"/>feſſes that you will confirm and defend the Civill and
+Eccleſiaſticall Go<g ref="char:EOLhyphen"/>verment of <hi>Scotland,</hi> as they are ſetled by
+Law; yet by reſtricting your Conceſſions to ſuch Acts of Parliament, as
+have been actually conſented to by the King your Father, Being perſonally
+preſent, or by his Commiſ<g ref="char:EOLhyphen"/>ſioner authorized for that effect, at once all
+our Laws and Parliaments theſe eight years by paſt, ſo often acknowledged
+by our late Soveraign, are now by this your Majeſties Anſwer laid afide,
+and utterly rejected, ſeeing it hath pleaſed your Majeſty ſo directly
+to queſtion the clear and undoubted Laws and conſtitutions of the
+Parliament of your Majeſties Kingdom of <hi>Scotland,</hi> upon that ground;
+We moſt humbly crave leave to remember your Majeſtie, that as the
+Parliament held in the year, 1561 without the preſence of the Queen, or her
+Commiſſioner was ever ac<g ref="char:EOLhyphen"/>knowledged by her Majeſtie, and your Royall
+Predeceſſors ſince as a lawfull Parliament; ſo your Royal Father our
+late Soveraign was plea<g ref="char:EOLhyphen"/>ſed, in his Wiſdom and Juſtice to acknowledge all
+Acts of the Parlia<g ref="char:EOLhyphen"/>ment 1640. as Laws to be obſerved, by all his Subjects of
+that Kingdom: Notwithſtanding, that neither he, nor any Commiſſioner from
+him, was therein preſent; amongſt which is that Act for the conſtitution
+of Par<g ref="char:EOLhyphen"/>liament in all time coming, whereby it is declared and ordained, that
+that Parliament holden by the Nobilitie, Barons, and Burgeſſes, or their
+Commiſſioners as the true eſtates of the Kingdom; is, and ſhould be
+ac<g ref="char:EOLhyphen"/>compted a compleat and perfect Parliament, and to have the ſame power,
+authority, and Juriſdiction as abſolutely and fully as any Parlia<g ref="char:EOLhyphen"/>ment
+formerly hath had within the Kingdom in time by gone<g ref="char:punc">▪</g> As like<g ref="char:EOLhyphen"/>wiſe the
+17. Act of the ſame Parliament, intituled, <hi>Act Statutarie, ap<g ref="char:EOLhyphen"/>pointing
+Parliaments to be holden once every three years,</hi> wherein the appointing of
+the time &amp; places is to be the laſt Act thereof, by the authority of the
+which Act the Parl. 1641, wherin his Maj. was preſent; did meet, and by the
+Act thereof appointed the firſt <hi>Tueſday</hi> of <hi>January</hi> in
+<hi>Anno</hi> 1644. to be the day of meeting and con<g ref="char:EOLhyphen"/>veening of the next
+Trienuial Parliament: His Majeſtie and the Eſtate: Declaring <pb facs="tcp:165289:8"/>that the publication of that Act ſhould be a ſufficient for
+conveening of the whole Members of Parliament, as if all ſooner Solemnities
+were uſed; By Authority <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> which
+Parliament the ſeveral ſubſequent Seſſions of Parliament have
+conveened, and have often by Treaties, Letters, and Meſſages, ſolemnly
+been acknowledged by your Father: and yet theſe are the Parliaments
+queſtioned by your Majeſty, wherein if you ſhould inſiſt, it would be
+no leſs then to ſtrike at the fundamental Laws of the King<g ref="char:EOLhyphen"/>dom, nor could
+the ſubjects there be in ſecurity of any thing while they poſſeſſe.
+Were it not to make the gap wider, we ſhould particularly ſhew, that your
+Majeſties anſwer is ſo far from containing ſatisfaction to our
+Deſires, that it drives at the ſubverſion of them all, and the
+diſſolving of that Solemn Covenant, which for the good of Religi<g ref="char:EOLhyphen"/>on, the
+honour and happineſs of the King, and the peace and ſafety of his Kingdoms,
+was ſworn and ſubſcribed before the moſt high God, by your Majeſties
+good Subjects of both Kingdoms, from which they wil not depart, nor ſuffer
+themſelves to be with<g ref="char:EOLhyphen"/>drawn, by any trouble or difficulty that they can meet
+with. But we do purpoſely forbear
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ther to inſiſt upon
+particulars, deſiring rather your Majeſty to take the bu<g ref="char:EOLhyphen"/>ſineſs again
+unto your moſt ſerious conſideration, and that (laying aſide the
+occaſion of ſuch dangerous debates) it may pleaſe your Majeſty to give
+the ſatisfaction deſi<g ref="char:EOLhyphen"/>red, to the juſt and neceſſary Propoſitions
+of your Kingdom of <hi>Scotland,</hi> concerning Religion, and the Solemn
+League and Covenant, and the determination of matters Civil by the Parliament,
+and matters Eccleſiaſtical by the Aſſemblies of the Church of that
+Kingdom: That thereby your Majeſty may gain not only the outward obedi<g ref="char:EOLhyphen"/>ence,
+but alſo the inward affection of your good people to your Royal Perſon,
+Au<g ref="char:EOLhyphen"/>thority, and Government, which is the only way to unite and ſtrengthen
+their hearts and hands, and ſo to engage that Nation intirely to perform to
+your Majeſty all the duties of faithfulneſs and loyalty. But if (by the
+inſtigation and perſwaſion of perni<g ref="char:EOLhyphen"/>cious Councel) your Majeſty thus
+(as we wiſh it may never enter into your Royal hear) ſhall refuſe and
+reject theſe reaſonable deſires wherein there is nothing asked, but your
+Majeſties aſſent to theſe things; the particulars whereof, have been by
+Par<g ref="char:EOLhyphen"/>liament enacted before your Majeſties coming to the Crown, and by the
+people uni<g ref="char:EOLhyphen"/>verſally received and obeyed as Law, as it wil be very grievous to
+them, ſo it wil conſtrain them in ſuch an extremity, to do what is
+incombent to them for preſerving Religion and the Kingdom from ruine; and we
+are confident that it ſhall appear to the world with how much humility,
+affection, and Loyalty, they have carried them<g ref="char:EOLhyphen"/>ſelves towards your Majeſty
+ſince the beginning.</p>
+                     <closer>
+                        <dateline>
+                           <date>May 22. &amp; June
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> 1649.</date>
+                        </dateline> 
+                        <signed>Signed by the Commiſſioners of
+Parliament.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>May it pleaſe Your Majeſty,</salute>
+                     </opener>
+                     <p>AT your Majeſties deſire we did forbear to inſiſt,
+upon that firſt Pa<g ref="char:EOLhyphen"/>per which we offered to your Majeſty, and the removing
+of <hi>James Grantham</hi> as a perſon excommunicate by the Church and
+fore<g ref="char:EOLhyphen"/>faulted by the Parliament of <hi>Scotland;</hi> and now having received no
+an<g ref="char:EOLhyphen"/>ſwer nor ſatisfaction from Your Majeſtie ther<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>nt, but that be ſtill preſumes to intrude himſelfe
+into your Majeſties preſence and pretend<g ref="char:EOLhyphen"/>ing Commiſſion from your
+Majeſtie, hath given warrant to ſome Officers to Levie Forces, which muſt
+be underſtood to be againſt the Kingdome of <hi>Scotland,</hi> he having
+ſent ſome of his compliers thither; Therefore it is our humble deſire,
+that he may be diſcharged your Royal preſence and Court, and that your
+Majeſtie would be pleaſed to let us know whether any ſuch Commiſ be
+granted to him or not, at this time whilſt we are expecting your Maj.
+anſwer to the deſires of that Kingdom.</p>
+                     <closer>
+                        <dateline>
+                           <date>
+                              <gap reason="illegible" resp="#OXF" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>
+                           </date>
+                        </dateline> 
+                        <signed>Signed by the Commiſſioners of
+Parliament.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="16" facs="tcp:165289:9"/>
+                     <head>His <hi>Majeſties</hi> Anſwer.</head>
+                     <p>I Am much unſatisfied with your Papers of the firſt and
+ſecond of this month, in Anſwer to mine of the 29 of <hi>May,</hi> finding
+by them th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> My real endeavours to
+give all juſt ſatisfaction to my good Subjects of Scotland are undervalued
+and miſinterpreted; and obſerving in them ſeverall inferences, oppoſing
+the naturall ſenſe and true intent of what I have propoſed, with moſt
+intire intentions for the good of that Church and Kingdome, and
+unſeaſonably ſtirring uſeleſſe queſtions, nei<g ref="char:EOLhyphen"/>ther properly
+ariſing out of any thing contained in any of the former pa<g ref="char:EOLhyphen"/>pers, nor
+conducing to the Common Peace: But neither theſe nor any diſcouragements
+ſhall prevſtil with me, to omit any thing that my tend to the Peace and
+Happines of all My good Subjects of <hi>Scotland;</hi> To which I ſhal moſt
+affectionately to My utmoſt power) upon all occaſi<g ref="char:EOLhyphen"/>ons) apply My Self,
+according to the duty which I owe to the Almighty God, in the exerciſe of My
+Royal power, for the good of My People, in order whereunto, I ſhall with
+covenient ſpeed, ſend you by the Expreſſe mentioned in My laſt Paper,
+the more particular Anſwer I then promi<g ref="char:EOLhyphen"/>ſed: I ſhall likewiſe more
+fully expreſſe My Self concerning the new matter contained in theſe
+Papers, and ſhall particularize, what I now complain of in them. In the mean
+time, I expect and require from all My Subjects of <hi>Scotland,</hi> ſuch
+obedience as is due to Me their King, by the Laws of God, of nature, and of
+that Kingdom.</p>
+                     <closer>
+                        <signed>Signed, C.R.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="Act_of_approbation">
+               <head>Act of Approbation of the Commiſſioners, their
+faithfulneſſe and di<g ref="char:EOLhyphen"/>ligence in their Commiſſion.</head>
+               <opener>
+                  <dateline>AT <hi>Edenburgh</hi> 
+                     <date>the fouretenth day of <hi>June,</hi>
+1649.</date>
+                  </dateline>
+               </opener>
+               <p>The Eſtates of Par<g ref="char:EOLhyphen"/>liament now preſently convened in the
+third Seſſion of this ſe<g ref="char:EOLhyphen"/>cond Trienniall Parliament, Having received from
+<hi>Iohn</hi> Earl of <hi>Caſſils, Alexander Brodie</hi> of that ilk,
+Maſter <hi>George Winrame</hi> of <hi>Libberton,</hi> and <hi>Alexander
+Jaffray</hi> Burges of <hi>Aberdeen,</hi> Their Commiſſioners ſent to the
+Kings Majeſtie, The Report of all their proceedings with the King, And read
+the papers delivered therewith to this Parliament; And being ful<g ref="char:EOLhyphen"/>ly ſatisfied
+with their Integrity, Faithfullneſſe, and Diligence, in con<g ref="char:EOLhyphen"/>tributing their
+utmoſt endeavours for proſecuting their inſtructions, And for obtaining
+ſatisfaction to the deſires of this Kingdome; Doe therefore unanimouſly
+and heartily acknowledge their Faithfulneſſe and Diligence, and approve
+their proceedings, And render to them the hear<g ref="char:EOLhyphen"/>ty thanks of this Kingdom for
+the ſa<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e.</p>
+               <closer>
+                  <signed>Sic Subſcribiter, ARCH. IOHNSTOUN. Cler.
+Regist.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="report">
+            <pb n="17" facs="tcp:165289:9"/>
+            <head>The Report of the Commiſsioners of the Church, of their
+Proceedings with his Majeſty at the Hague: Made in the Generall Aſſembly,
+Iuly 10. 1649.</head>
+            <div type="report_and_correspondence">
+               <p>AS We were commanded by the Commiſſion of the Church, we
+made ready with all the ſpeed we could for our voyage to <hi>Hol<g ref="char:EOLhyphen"/>land.</hi>
+According to your prayers, the good hand of our God brought us ſafe through
+the Sea. On Tueſday <hi>March</hi> 27. we made our firſt Addreſſes to
+his Majeſty, wee delivered our Letters and Commiſſion, expreſſing in
+our Speech (according to our Inſtructions) the deep ſenſe and greef of
+this Church for his Majeſties afflictions, their deteſtation of the
+principles and proceedings of the <hi>Sectaries</hi> in <hi>England,</hi> their
+conſtant affection to Monarchy, and moſt hearty deſires for the
+bleſſing of God upon His Majeſties perſon and Government. All this was
+well taken from us, and wee were courteouſly dimiſſed, to return when we
+thought fit, with our Propoſions.</p>
+               <p>The Commiſſioners Letter was as followeth, 
+<floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <opener>
+                           <salute>May it pleaſe your Majeſty,</salute>
+                        </opener>
+                        <p>VVHile the Parliament of this Kingdom are making their
+Ad<g ref="char:EOLhyphen"/>dreſſes to your Majeſty by their Commiſſioners, We thought it our
+duty to ſend ſome of our number alſo inſtructed with Commiſsion from
+us, by whom your Majeſty may underſtand the integrity of our intentions
+towards Monarchicall Government, and the continuance thereof in your
+Majeſties Perſon and Poſterity, and our utter deteſtation of theſe
+abominable and unparaleld practiſes of ſome againſt the Perſon of your
+Majeſties Father, and their ſubverting the ancient and Funda<g ref="char:EOLhyphen"/>mentall Lawes
+and Government of theſe Kingdoms. Our humble and earneſt Petition to your
+Majeſty is, That you would be pleaſed to grant the Deſires of your loyall
+Subjects, who ſincerely ſeek the Eſtabliſhment of your Throne in
+righteouſneſſe; and as you love the glory of God, the good of Religion,
+your own Honour and Happineſſe, and the Peace and Welfare of theſe
+Kingdoms, your would not hearken to the Counſels, nor countenance or own the
+courſes of them who have been, and are u<g ref="char:EOLhyphen"/>ſurpers upon the Priviledges and
+diſturbers of the Peace of this Kirk and<pb n="18" facs="tcp:165289:10"/>Kingdom. Our
+Commiſſioners will acquaint your Majeſty more fully with our minde, unto
+whom we humbly deſire your Majeſty may give credit, and interpret our
+freedom and plain dealing by <gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>,
+as a reall Teſtimony of our unfained affection to your Majeſties Perſon
+and Go<g ref="char:EOLhyphen"/>vernment. We have hitherto laboured to approve our ſelves in all
+fide<g ref="char:EOLhyphen"/>lity to our Lord and Maſter <hi>Ieſus Chriſt,</hi> and in all
+loyalty to Kingly Authority; And we are reſolved to walk ſtill after the
+ſame Rule, in our ſeverall ſtations and vocations, amidſt all the
+difficulties and oppoſitions wherewith we are aſſaulted on either hand;
+Praying for your Majeſty, that the Lord of the whol earth would multiply all
+ſorts of mercies upon your Royall Perſon; and graciouſly encline your
+young and tender heart unto the ſpeedy embracing and following of the
+Counſels of Truth and Righteouſneſſe, and grant unto your Majeſty a
+long and happy Reign, that we may live under you, a peaceable and quiet life in
+all godlineſſe and honeſty, who are</p>
+                        <closer>
+                           <dateline>Edingburgh 
+<date>March the firſt, 1649.</date>
+                           </dateline> 
+                           <signed>Your Majeſties Loyall and Loving Sub<g ref="char:EOLhyphen"/>jects and
+humble ſervants in the Lord, <hi>The Commiſſioners of the Generall
+Aſſembly.</hi>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>Before we offered any of our deſires, we thought it convenient
+to aſſay the putting away of that which we feared might prove obſtructive
+to all our intentions; Before our comming, that unhappy and curſed man,
+<hi>Iames Graham</hi> had been ſent for, and too well entertained by thoſe
+of the Engliſh Councell, who leaſt affected our Covenant, and all the late
+proceedings of our Nation: our firſt paper therefore on Friday March 30 was
+for the removall of this evill man from his Majeſties preſence and Court.
+The Commiſsioners of Parliament had deſired the ſame before, the fi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt anſwer they got was bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dilatory; we conceived it the more
+ne<g ref="char:EOLhyphen"/>ceſſary for us to joyn with the ſame deſire again, our petition was
+in theſe terms 
+<floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <opener>
+                           <salute>May it pleaſe your Majeſty,</salute>
+                        </opener>
+                        <p>ACcording to our Commiſsion, we doe repreſent in the
+name of the Ki<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>k of
+<hi>Scotland</hi> their earneſt deſire, that ſuch as lie under the
+cenſure of Excommunication may be diſcountenanced by your Majeſty, and
+re<g ref="char:EOLhyphen"/>moved from your Court; eſpecially <hi>Iames Graham</hi> late Earl of
+<hi>Mon<g ref="char:EOLhyphen"/>troſſe,</hi> being a man moſt juſtly, if ever any, caſt out
+of the Church of God. It hath been <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>he c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m of Chriſtian Princes in all places
+and times to maintain ſo far the diſcipline of all Churches which
+themſelves<pb n="19" facs="tcp:165289:10"/>did protect by their Laws, as (according to the
+order of Chriſt) to decline the familiar converſing with every one whom the
+higheſt cenſure of Ex<g ref="char:EOLhyphen"/>communication made to Ethnicks and Publicans; your
+Majeſties walk<g ref="char:EOLhyphen"/>ing in any other way would be contrary to the rules of
+Scripture, to the practiſe of theſe Princes whoſe gracious examples will
+be your Majeſties moſt whollſome Patterns, and would certainly give a
+great ſtroke to all the Diſcipline of the Kirk of <hi>Scotland,</hi> which
+your Majeſties Royall Grandfather by many of his Laws, and your Royall Father
+in his Parlia<g ref="char:EOLhyphen"/>ment of <hi>Scotland</hi> 1640. hath expreſly ratified, and we
+truſt your Majeſty will never intend to alter; leaſt of all at this time,
+in the hopefull begin<g ref="char:EOLhyphen"/>ning of your Reign; for gratifying of a Perſon upon
+whoſe head lies more innocent bloud, then for many years hath done on the
+head of any one, the moſt bloody murtherer in our Nation.</p>
+                        <p>We hope for ſo much mercy from our God, that his gracious
+Spirit ſhall encline your Majeſties heart to give us juſt ſatisfaction
+in all our ne<g ref="char:EOLhyphen"/>ceſſary Deſires, that the cordiall union of your Majeſtie
+with your people ſo much longed for on all hands, may with all ſpeed be
+fully accompliſh<g ref="char:EOLhyphen"/>ed: And that this curſed man, whoſe ſcandalous
+carriage, pernitious counſell, and contagious company cannot fail (ſo long
+as he remains in his obſtinate impenitency) to diſhonour and pollute all
+companies, and pro<g ref="char:EOLhyphen"/>voke the anger of the moſt high God againſt all places
+of his familiar acceſſe; ſhall not pe permitted by your Majeſty to
+ſtand any longer in the entry of our hopes, to our great diſcouragement and
+fear, leſt by his guilt, example, and acting, all the humble Deſires, and
+wholſom Coun<g ref="char:EOLhyphen"/>ſels which we are intruſted with, ſhould be obſtructed
+and fruſtrate,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Fryday</hi> March 30.
+1649.</date>
+                           </dateline> 
+                           <signed>Subſcribitur, 
+<list>
+                                 <item>Caſsils</item>
+                                 <item>Robert Bailie.</item>
+                                 <item>George Wynram</item>
+                                 <item>Iames Wood</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText> 
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <head>His Majeſties Return to us both was in this
+Paper.</head>
+                        <p>I Do inſiſt upon my former Anſwer, and do deſire and
+expect that you do deliver all the Propoſitions or Deſires you or any of
+you are en<g ref="char:EOLhyphen"/>truſted to preſent to me, before I make an Anſwer to any
+particular one, being reſolved to conſider of the whole, before I declare
+my reſolution upon any part.</p>
+                        <closer>
+                           <dateline>
+                              <date>April 10. n. ſtill.
+1649.</date>
+                           </dateline> 
+                           <signed>C R.</signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>
+                  <pb n="20" facs="tcp:165289:11"/>We took it for no good preſage, that
+notwithſtanding all we could doe by our ſelves or by others, this man
+remained ſtill in our way, as an open enemy to all our deſignes; alſo
+that his Majeſties anſwer to us was put in o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e paper, and was altogether the ſame with his Anſwer
+to the Com<g ref="char:EOLhyphen"/>miſſioners of Parliament, without any direction either to them
+or us, ex<g ref="char:EOLhyphen"/>preſſing his acknowledgement of our capacity as
+Commiſſioners; yet having obtained the Kings promiſe of a Satisfactory
+Anſwer in reaſon, to that our our firſt Petition, ſo ſoon as the
+reſt of our Propoſitions were given in: and judging his Majeſties
+receiving of our Meſſage, and an<g ref="char:EOLhyphen"/>ſwering of all our papers without any
+quarrelling of our Commiſſion, whereof in every paper we made expreſſe
+mention, to be a reall acknow<g ref="char:EOLhyphen"/>ledgement of us as Commiſſioners from the
+Church: and not being in<g ref="char:EOLhyphen"/>ſtructed to break off all Treaty at the beginning
+upon diſſatisfaction in ſuch things, as the Comiſſioners of
+Parliament, ſo we alſo thought fit to proceed.</p>
+               <p>The man things we were inſtructed to propone to his Majeſty,
+were the Nationall Covenant of <hi>Scotland,</hi> the Solemne League and
+Covenant of the three Kingdomes, the Directory of Worſhip, the Confeſſion
+of Faith, the Propoſitons for Presbyteriall government, the two
+Catechiſmes, as they were agreed unto by the Generall Aſſembly and
+Parliament of <hi>Scotland</hi> Theſe ſix peeces we did bind together in a
+Book, and delivered them to His Majeſty, ſpeaking ſomewhat to the matter
+of every one of them, and entreating that this Majeſty would be pleaſed to
+read and peruſe them all, what ever ſcruple might ariſe in his mind from
+any of them we offered our beſt endeavour, to ſatisfie him therein: But our
+Poſitive deſires concerning th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe Particulars, we gave in on Thurſday, <hi>April</hi> 5. 15. in
+this Paper. 
+<floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <opener>
+                           <salute>May it pleaſe your Majeſty,</salute>
+                        </opener>
+                        <p>VVEE the Commiſſioners of the Church of
+<hi>Scotland,</hi> hoping for an Anſwer ſatisfactory in reaſon to our
+firſt paper, according to your Maje<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ies gracious promiſe, do go on according to our Com<g ref="char:EOLhyphen"/>miſſion,
+to ſignifie in the name of that Church, that after their hearty prayer to God
+for his bleſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing on your Royall
+perſon and government; It is their moſt earneſt deſire that it may be
+your Majeſties pleaſure to give <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hem aſſu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ance under
+your hand and ſeale of your <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>pprobation of the Nationall Cavenant of <hi>Scotland,</hi>
+ſubſcribed by your Royall Grand-Father, approven and enjoyned by your
+Royall Father in the Parliament of <hi>Scotland,</hi> 1640. And of the Solemn
+League and Covenant, which now for divers years the Parliaments, and Generall
+Aſſemblies of <hi>Scotland,</hi>
+                           <pb n="21" facs="tcp:165289:11"/>the two Houſes of the
+Parl. of <hi>England,</hi> and the Aſſembly of Divines at Weſtminſter,
+after long and ſerious deliberation, have unanimouſly found to be the
+beſt and neceſſary meanes of ſetling Religion, of eſta<g ref="char:EOLhyphen"/>bliſhing the
+Throne, and bringing back proſperity to your Majeſty and all your three now
+lamentably diſtreſſed kingdomes; alſo of the Di<g ref="char:EOLhyphen"/>rectory of Worſhip,
+Confeſſion of Faith, Catechiſme, and Presbyteriall Government of the
+Church, agreed upon according to the word of God, by the Aſſembly of
+Divines at Weſtminſter, and the Generall Aſſemblies of the Church of
+<hi>Scotland:</hi> the Copies of all which we did the other day deliver to your
+Majeſty. Likewiſe that your Majeſty would be pleaſed to ſubſcribe
+the Nationall Covenant, with the Solemn League and Cove<g ref="char:EOLhyphen"/>nant, and give your
+Royall Aſſent to ſuch Acts of the Parliament of <hi>Scotland</hi> as
+ſhall be offered to your Majeſty, for the eſtabliſhing and enjoyning of
+the Premiſes in <hi>Scotland,</hi> and to ſuch Acts of Parliament as
+ſhall be offered by the two Houſes of the Parliament of <hi>England,</hi>
+for the eſtabliſhing and enjoyning the ſame in <hi>England</hi> and
+<hi>Ireland;</hi> and in the mean time, that your Majeſty would be pleaſed
+to lay aſide the uſe of the Service-Book, and conform the worſhip of God
+in your Royall Family to the Directory. We are fully perſwaded that your
+Majeſties cordiall joyning with your loving Subjects in theſe meanes of
+advancing the Honour of God and true Religion, ſhall procure from heaven the
+Lords powerfull aſsiſtance, to b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing your Majeſty and your people, out of the great tribulation and
+danger, wherein both for the preſent are plun<g ref="char:EOLhyphen"/>ged. We are alſo confident
+that your Majeſties granting theſe moſt humble and earneſt deſires,
+ſhall be a chief and effectuall mean to knit to your Majeſty in all duty,
+the hearts of all your good Subjects, not in <hi>Scotland</hi> alone, but every
+where elſe, and ſhall looſe to your Majeſty none at all, who either
+loves the truth of God, or minds your Majeſties happineſſe a<g ref="char:EOLhyphen"/>bove their
+own particular unjuſt intereſts,</p>
+                        <closer>
+                           <dateline>
+                              <date>April 5. 15.</date>
+                           </dateline> 
+                           <signed>Subſcribitur, 
+<list>
+                                 <item>Caſſils.</item>
+                                 <item>Robert Bailie.</item>
+                                 <item>Libberton.</item>
+                                 <item>Iames Wood,</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>Vpon <hi>Fryday</hi> the day following we received from his
+Majeſty this ſhort re<g ref="char:EOLhyphen"/>turn. 
+<floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <opener>
+                           <signed>C. R.</signed> 
+                           <date>April 16.</date>
+                        </opener>
+                        <p>I Deſire for the reaſons mentioned in my former papers,
+to know whe<g ref="char:EOLhyphen"/>ther the laſt papers I received from you, contain the full
+demands and<pb n="22" facs="tcp:165289:12"/>Propoſitions, you or any of you have to make
+in reference to Church or State, and if not, that then you deliver what
+remains, that I may conſi<g ref="char:EOLhyphen"/>der of the whole, and proceed accordingly.</p>
+                        <closer>
+                           <dateline>
+                              <date>April 16.
+1649.</date>
+                           </dateline>
+                        </closer>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>To this on the <hi>Satturday</hi> we made this reply. 
+<floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <p>UNto the paper deliverd to us by your Majeſty this day, we
+do make this humble return, that the laſt your Majeſty received from us the
+Commiſſioners of the Kirk of <hi>Scotland,</hi> doth contain the
+ſubſtance of all we have to demand of your Majeſty, the Grant whereof
+will make any other humble advice we are to propone moſt eaſie. What the
+Commiſſi<g ref="char:EOLhyphen"/>oners of Parliament have to deliver in reference to the State, we
+leave it wholly to themſelves, they being in a Commiſſion and capacity
+altogether diſtinct from that which we have from the Church alone.</p>
+                        <closer>
+                           <dateline>
+                              <date>April 17. 1649.</date>
+                           </dateline> 
+                           <signed> 
+                              <list>
+                                 <item>Caſſils.</item>
+                                 <item>Robert Bailie.</item>
+                                 <item>Libberton.</item>
+                                 <item>Iames Wood.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>The dayes thereafter, His Majeſty and the Commiſſioners of
+Parlia<g ref="char:EOLhyphen"/>ment interchang<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d divers
+papers about points of State, wherein we had no place to meddle; in the mean
+while we were not idle, but went about our in<g ref="char:EOLhyphen"/>ſtructions both by conferences
+with his Majeſty, and by frequent dealing with divers perſons of quality
+whom we conceived to have ability or any oppor<g ref="char:EOLhyphen"/>tunity to promove with His
+Majeſty the Grant of our deſires; Alſo by anſwer<g ref="char:EOLhyphen"/>ing ſometimes even
+in Print, a multitude of calumnies wherewith our malig<g ref="char:EOLhyphen"/>nant enemies with much
+artifice and malice, did labour to poyſon the ears of His Majeſty and all
+about him againſt our Church and Kingdome.</p>
+               <p>But finding time to drive over, and no anſwer according to our
+mind ap<g ref="char:EOLhyphen"/>pearing, we gave in on May 18./28. the following Writ. 
+<floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <p>UPon the 5. 15. of <hi>Apr.</hi> We the Commiſsioners of
+the Kirk of <hi>Scotland,</hi> did in their name preſent their humble and
+earneſt deſire of theſe things which they conceived neceſſary for the
+ſecurity of Religion, for the eſtabliſhment of your Majeſties Throne,
+and for putting of them in a confident expectation of the Lords bleſſing
+upon your Majeſties Go<g ref="char:EOLhyphen"/>vernment; ſince that time we have been alwayes
+waiting, and often humbly moving for an anſwer; but as yet none at all is
+given we cannot conceal, but ſo long a delay hath affected us with grief,
+ſo much the more as your Majeſty hath declared your reſolution to be gone
+from th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                           <pb n="23" facs="tcp:165289:12"/>on
+<hi>Thurſday</hi> next, which makes the time we have to conſider what your
+Majeſty ſhall be pleaſed to offer very ſhort; Wherefore with all
+humility and earneſtneſſe we do ſupplicate that without the loſſe
+of more time, now at laſt we may have ſo gracious and ſatisfactory a
+return to our former pa<g ref="char:EOLhyphen"/>pers, as may make us leave your Majeſty with joy, and
+carry home to them who have ſent us, matter of praiſe to God for inclining
+your heart towards theſe their counſels: which are moſt likely to procure
+to your Majeſty and all your Dominions, an happy deliverance from all their
+pre<g ref="char:EOLhyphen"/>ſent diſtreſſes.</p>
+                        <closer>
+                           <dateline>
+                              <date>May 18. 28. 1649.</date>
+                           </dateline> 
+                           <signed> 
+                              <list>
+                                 <item>Caſſils.</item>
+                                 <item>Ro. Bailie.</item>
+                                 <item>Liberton</item>
+                                 <item>Ia. Wood.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>Hereby we obtained from his Majeſty <hi>May</hi> 19. 29. this
+anſwer. 
+<floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <p>I Have conſidred the ſeverall Papers and Propoſitions,
+delivered to me by you, &amp;c. <hi>vide ſupra.</hi>
+                        </p>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>Our grief for this Paper was great, it was much worſe then any
+thing we expected; not onely the hand of the worſt of the Engliſh
+Counſell, but of <hi>Iames Graham</hi> alſo, and others of our evil
+countrey men was viſible therein; we reſolved to give unto it this plain
+Reply. 
+<floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <opener>
+                           <salute>May it pleaſe your Majeſty,</salute>
+                        </opener>
+                        <p>VVEe the Commiſsioners of the Kirk of <hi>Scotland,</hi>
+having conſider<g ref="char:EOLhyphen"/>ed your Majeſties Paper of <hi>May</hi> 19. 29. given to us
+in anſwer of all our formet, muſt in conſcience of our duty with all
+humility make known to your Majeſty, that to our great grief, we find it in
+many the chiefeſt points of our deſires very unſatisfactory. Vnto our
+firſt Paper for diſcountenancing of excommunicate perſons, to which a
+ſatisfactory an<g ref="char:EOLhyphen"/>ſwer in reaſon was promiſed, nothing at all is ſaid.
+To our other deſires no proper return is made unto us, but we are ſent to
+gather it here &amp; there out of your Majeſties Anſwer to the
+Commiſſioners of Parliament; wherein though we find ſome things returned
+to their deſires which they had com<g ref="char:EOLhyphen"/>mon with
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>, yet the moſt part thereof
+runneth upon matters of State, wherewith our condition permits us not to
+meddle: but rather then to go away without all further conference, we are
+willing in obedience to your Majeſties deſires, to conſider what in that
+writing we conceive may have any reference to our Propoſitions.</p>
+                        <p>We bleſſe God that your Majeſty aſſures us you
+will maintain confirm, and defend the Eccleſiaſtick Government of
+<hi>Scotland,</hi> as it is ſettled by Law; and particularly theſe Laws
+which concern the National Covenant, Confeſsion of Faith, and Presbyteriall
+government of our Church, their<pb n="22" facs="tcp:165289:13"/>blame muſt be the greater,
+who have been Authours to your Majeſty, to give ſo frequent, open, and
+familiar acceſſe to <hi>Iames Graham,</hi> moſt ſolemn<g ref="char:EOLhyphen"/>ly and juſtly
+excommunicate by that Church: which things cannot but be thought as it is
+indeed a great violation of the Eccleſiaſtick government<g ref="char:punc">▪</g> To ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> deſire in the matter of our Nationall
+Covenant; that as your Grand Father by his own hand, and your Father by the
+hand of His Com<g ref="char:EOLhyphen"/>miſsioner had ſubſcribed it<g ref="char:punc">▪</g> ſo your Majeſty
+would be pleaſed to ſubſcribe the ſame; no anſwer at all is given.
+But our prime diſſatisfaction is, that what we petitioned concerning the
+Directory, Confeſsion of Faith agreed upon by the Aſſembly of Divines at
+<hi>Weſtminſter,</hi> and approven by the generall Aſſembly and
+Parliament of <hi>Scotland,</hi> Catechiſmes, and Propoſitions for
+government, is clearly denyed; and our greateſt deſire about the ſolemn
+League and Covenants fully fruſtrate. The Covenant it ſelf is broken in
+pieces, ſome parts are avowedly laid aſide, the other parts are refuſed
+to be taken into conſideration till they be proven, firſt not to be
+compriſed in the acts concerning the Nationall Covenant, and Presbyteriall
+government of the Church of <hi>Scotland,</hi> next that they are neceſſary
+to the welfare both of the Church and Kingdome, and thirdly that they have no
+reference ei<g ref="char:EOLhyphen"/>ther to <hi>England</hi> or <hi>Ireland.</hi> When all this is
+made to appear, an Act of ob<g ref="char:EOLhyphen"/>livion of all that <hi>Iames Graham</hi> and his
+complices or any other have done during all the time of theſe ſad
+diſtractions muſt be paſt, and a union with all theſe then muſt be
+fully ſettled, before your Majeſty do ſo much as ap<g ref="char:EOLhyphen"/>ply your ſelf to
+give ſatisfaction in theſe things.</p>
+                        <p>Such an anſwer we know cannot fail to grieve the whole
+Church of <hi>Scotland,</hi> and all their Covenanted Brethren in
+<hi>England</hi> and <hi>Ireland;</hi> who under the pain of moſt ſolemn
+Perjury ſtand bound to God, and one to a<g ref="char:EOLhyphen"/>nother to live and die in that
+ſolemne League and Covenant, as the chiefe and neceſſary ſecurity of
+their Religion and Liberties which the Popiſh Prelaticall and malignant
+Faction by their pernitious Counſells and actions now of a long time have
+been overturning, and to this day continue dili<g ref="char:EOLhyphen"/>gent in promoving to their
+power that their deſtructive deſigne. We mar<g ref="char:EOLhyphen"/>vell how any can object
+conſcience or Honour againſt your Majeſties grant<g ref="char:EOLhyphen"/>ing to us what we
+deſire in the Covenant for ſecuring the Proteſtant Reli<g ref="char:EOLhyphen"/>gion, who have
+themſelves been Counſellers and perſwaders that your Ma<g ref="char:EOLhyphen"/>jeſty without
+all ſcruple either of conſcience or honour, ſhould conclude,
+ſub<g ref="char:EOLhyphen"/>ſcribe and ſeal antecedently to, and without any Parliament, yea
+contrary to all the Parliaments of <hi>Eng<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>and</hi> the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e
+hundred years, a liberty of the Popiſh Religion to the bloody Rebels of
+<hi>Ireland.</hi>
+                        </p>
+                        <p>Your Majeſty would be pleaſed to conſider, that any
+relation theſe things we deſire may have to <hi>England,</hi> hindereth
+them not to be lawfull<pb n="25" facs="tcp:165289:13"/>Acts of the Generall Aſſembly of
+<hi>Scotland,</hi> legally ratified by the Parlia<g ref="char:EOLhyphen"/>ments of that Kingdom; which
+when your Majeſtie does approve, no<g ref="char:EOLhyphen"/>thing is impoſed upon <hi>England</hi>
+ſince their own Houſes of Parliament and Aſſembly of Divines did not
+only Act the ſame things; but in all their Treaties with the King &amp; with
+<hi>Scotland</hi> for divers years together did earneſt<g ref="char:EOLunhyphen"/>ly preſſe them.
+Your Majeſties Father in his laſt Meſſage to the Commiſ<g ref="char:EOLhyphen"/>ſion of our
+Church did offer to ratifie the Solemn League and Covenant for all that had
+taken it, or ſhould take it in any of the 3 Kingdoms, and in his laſt
+Treaty with the Engliſh Commiſsioners in the Iſle of <hi>Wighe</hi> did,
+as we are enformed, offer to confirm the Directory, Presbyteriall Government,
+and what elſe was required for Religion in <hi>England</hi> and
+<hi>Ireland,</hi> ever till he and his Parliament ſhould agree upon a
+ſetled Order for the Church. We do not conceive what in this Covenant can
+ſtumble your Majeſty. The abolition of Epiſcopacy, and of the
+Service-Book your Majeſty maintains, confirms and defends in
+<hi>Scotland:</hi> the duty done with a good conſcience &amp; allowance of
+God in <hi>Scotland</hi> cannot be againſt conſcience, nor offend God in
+<hi>England:</hi> no Reformed Church, no Pro<g ref="char:EOLhyphen"/>teſtant Divine out of
+<hi>England,</hi> did ever eſteem Epiſcopacy or Liturgy ne<g ref="char:EOLhyphen"/>ceſſary: All
+<hi>Scotland,</hi> the moſt of <hi>England,</hi> the beſt part of
+<hi>Ireland,</hi> doe judge the abolition of Popery, of Prelacy, of the
+Liturgy; And joyning in a Covenant for that end, a neceſſary duty. Your
+Majeſty and all the World may ſee, to the very great grief of our ſoul,
+the wrath of the Lord burning like a flame, no better mean know we to quench
+it, then for your Majeſty to be humbled under his mighty hand, to ſeek and
+rely on his favour, to be zealous for advancing his affairs, to eſtabliſh
+the Solemn League and Covenant, to provoke him no more by holding up in his
+Houſe, againſt the Hearts of all the Orthodox abroad, and of the godly at
+home, humane inventions borrowed from <hi>Rome,</hi> moſt unhappy to
+<hi>Britain.</hi> No mean in our judgement is comparable to this, for opening
+the armes and hearts of your beſt people to embrace your Majeſties
+per<g ref="char:EOLhyphen"/>ſon, to ſecond with their lives and Eſtates all your juſt
+deſires, to employ with chearfulneſſe their who I ſtrength to ſettle
+you upon all your thrones. The refuſing thereof we are perſwaded will be
+diſpleaſing to God, will diſcourage and diſcontent extreamly all your
+Covenanted Subjects, who otherwiſe are moſt cordially affecteed to your
+Majeſties Service, may tempt you to allyances with Idolaters, to a dependence
+upon Strangers, to a courſe of cruell perſecution againſt your beſt
+Subjects, will be pleaſant to none but to ſuch as are your Majeſties
+Mortall enemies, who cannot but account it the joyfulleſt news that can come
+to them; or to ſuch as, what<g ref="char:EOLhyphen"/>ſoever be their pretences or true intentions,
+yet by their counſels and acti<g ref="char:EOLhyphen"/>ons,<pb n="26" facs="tcp:165289:14"/>more then any other
+men living, doe ſerve the deſigns and advance the work of the Sectaries at
+<hi>Weſtminster</hi> and <hi>Derby</hi>-Houſe for ruining your Majeſty
+and Us all.</p>
+                        <p>Our deſire to bee faithfull to our Maſter in heaven, and
+to be anſwer<g ref="char:EOLhyphen"/>able to the truſt we have from the Church that hath ſent us,
+the tenderneſs of our hearts towards the more and more diſtreſſed
+condition of your Majeſty and your Kingdoms, have made us bold to lay out
+theſe our free, loving, and loyall thoughts at your Majeſties feet,
+expecting your Majeſty will be pleaſed to review our former Papers, and yet
+grant us ſuch a ſatisfactory Return, as may ſend us home rejoycing, and
+make us be received for our glad tydings with praiſe to God, with
+bleſſings upon your Majeſty, and confident expectation of a ſpeedy
+change in the face of af<g ref="char:EOLhyphen"/>fairs in all your Dominions.</p>
+                        <closer>
+                           <dateline>
+                              <date>May
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>3. Iune 3. 1649.</date>
+                           </dateline> 
+                           <signed> 
+                              <list>
+                                 <item>Caſſills,</item>
+                                 <item>R. Baillie.</item>
+                                 <item>Libberton</item>
+                                 <item>Ia: Wood.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>Hereunto we received from his Majeſty this laſt Anſwer. 
+<floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <p>I Am much unſatisfied with your Papers of the firſt and
+ſecond of this moneth, in anſwer to mine of the 29 of May, &amp;c. <hi>vide
+ſupra.</hi>
+                        </p>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>To this we thought fit to make no Return in Writ.</p>
+               <p>We did indeed expect by the aſſiſtance of the Prince of
+<hi>Orange,</hi> whoſe conſtant friendſhip we felt all the time of our
+abode there, and by the induſtry of ſome Noble-men of our Nation, to whom
+for their affectionate ſervice to us in our negotiation, We counted our
+ſelves not a little obliged: by the Lords bleſſing we ſay on their
+la<g ref="char:EOLhyphen"/>bours, we expected towards the time of our return a betrer and more
+ſatisfactory An<g ref="char:EOLhyphen"/>ſwer; but his Majeſty, as we heard, being reſolved
+before he made any concluſion to ſpeak with the Queen his Mother, and to
+ſend an Expreſſe hither with more of his m<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>de; we kiſſed his hands and took our leave in
+diſcomfort and grief, yet not without ſome hope, certainly with moſt
+earneſt deſires, that the promiſed Expreſs may bring to as much more
+mat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er of ſatisfaction and joy,
+then for the time we have any warrant to ſpeak of.</p>
+               <p>Wee have but one thing further to give an account of: the
+Commiſſion did write wit<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to
+the Reverend Divines, Doctor <hi>Rivet</hi> and <hi>D. Spanheim:</hi> D.
+<hi>Spanheim</hi> received his Letter, but before he did anſwer, the Lord to
+our g<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and the very great regra<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of the Churches abroad, did end the
+Pilgrimage of that truly eminent, and now much deſiderate
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Doctor <hi>Rivets</hi> abode
+was not at the <hi>Hague</hi> as we expected, but in <hi>Breda:</hi> we thought
+it a pitty in his extream old age, to put him to the pains of ſo long a
+journey as from <hi>Breda</hi> to the <hi>Hague;</hi> but we had his beſt
+affections and prayer going along with us in all our deſires, as he
+ſignified to us in private Letters, and as we ſuppoſe;
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to the Aſsembly, which h<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e we preſent.</p>
+               <closer>
+                  <signed> 
+                     <list>
+                        <item>
+                           <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ſſills,</item>
+                        <item>Robert Baylie,</item>
+                        <item>Geo. Wynrame,</item>
+                        <item>Iames Wood.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="Act_of_approbation">
+               <pb n="27" facs="tcp:165289:14"/>
+               <opener>
+                  <dateline>Edinburgh 
+<date>10. Iuly 1649. <hi>Antemeriden</hi>
+                     </date> Seſſ.
+VI.</dateline>
+               </opener>
+               <p>THe generall Aſſembly, Having taken in ſerious
+conſideration the Report of the Travel and Proceedings of the Commiſsioners
+ſent to his Majeſty, preſented by them this day: Together with the
+Commiſsion and Inſtructions which were given unto them; Doe find by the
+Report, that they have been very Diligent and Faith<g ref="char:EOLhyphen"/>full in the diſcharge of
+the Truſt committed to them: And therefore, Do unanimouſly Approve of their
+carriage, and return them hearty thanks, for their great pains and travells in
+that Employment.</p>
+               <closer>
+                  <signed>A Ker.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb n="26" facs="tcp:165289:15"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="27" facs="tcp:165289:15"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
